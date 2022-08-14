@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1660509701166,1709,RegisterUser,200,OK,Users 1-1,text,true,,2140,365,1,1,https://reqres.in/api/register,1108,0,1076
+1660509701166,1108,RegisterUser-0,301,Moved Permanently,Users 1-1,,true,,610,239,1,1,http://reqres.in/api/register,1108,0,1076
+1660509702275,600,RegisterUser-1,200,OK,Users 1-1,text,true,,1530,126,1,1,https://reqres.in/api/register,600,0,129
+1660509713164,157,RegisterUser,200,OK,Users 1-2,text,true,,2129,365,1,1,https://reqres.in/api/register,54,0,26
+1660509713164,54,RegisterUser-0,301,Moved Permanently,Users 1-2,,true,,606,239,1,1,http://reqres.in/api/register,54,0,26
+1660509713219,102,RegisterUser-1,200,OK,Users 1-2,text,true,,1523,126,1,1,https://reqres.in/api/register,102,0,76
+1660509725164,180,RegisterUser,200,OK,Users 1-3,text,true,,2127,365,1,1,https://reqres.in/api/register,72,0,40
+1660509725164,72,RegisterUser-0,301,Moved Permanently,Users 1-3,,true,,606,239,1,1,http://reqres.in/api/register,72,0,40
+1660509725237,107,RegisterUser-1,200,OK,Users 1-3,text,true,,1521,126,1,1,https://reqres.in/api/register,107,0,81
+1660509737165,632,RegisterUser,200,OK,Users 1-4,text,true,,2138,365,1,1,https://reqres.in/api/register,59,0,27
+1660509737165,59,RegisterUser-0,301,Moved Permanently,Users 1-4,,true,,618,239,1,1,http://reqres.in/api/register,59,0,27
+1660509737225,572,RegisterUser-1,200,OK,Users 1-4,text,true,,1520,126,1,1,https://reqres.in/api/register,571,0,81
+1660509749164,508,RegisterUser,200,OK,Users 1-5,text,true,,2130,365,1,1,https://reqres.in/api/register,54,0,27
+1660509749164,54,RegisterUser-0,301,Moved Permanently,Users 1-5,,true,,608,239,1,1,http://reqres.in/api/register,54,0,27
+1660509749219,453,RegisterUser-1,200,OK,Users 1-5,text,true,,1522,126,1,1,https://reqres.in/api/register,453,0,75
+1660509761167,615,RegisterUser,200,OK,Users 1-6,text,true,,2128,365,1,1,https://reqres.in/api/register,58,0,28
+1660509761167,58,RegisterUser-0,301,Moved Permanently,Users 1-6,,true,,608,239,1,1,http://reqres.in/api/register,58,0,28
+1660509761227,555,RegisterUser-1,200,OK,Users 1-6,text,true,,1520,126,1,1,https://reqres.in/api/register,555,0,76
+1660509773169,177,RegisterUser,200,OK,Users 1-7,text,true,,2133,365,1,1,https://reqres.in/api/register,69,0,38
+1660509773169,69,RegisterUser-0,301,Moved Permanently,Users 1-7,,true,,616,239,1,1,http://reqres.in/api/register,69,0,38
+1660509773239,107,RegisterUser-1,200,OK,Users 1-7,text,true,,1517,126,1,1,https://reqres.in/api/register,106,0,80
+1660509785179,1089,RegisterUser,200,OK,Users 1-8,text,true,,2122,365,1,1,https://reqres.in/api/register,62,0,30
+1660509785179,62,RegisterUser-0,301,Moved Permanently,Users 1-8,,true,,608,239,1,1,http://reqres.in/api/register,62,0,30
+1660509785243,1025,RegisterUser-1,200,OK,Users 1-8,text,true,,1514,126,1,1,https://reqres.in/api/register,1024,0,89
+1660509797173,162,RegisterUser,200,OK,Users 1-9,text,true,,2129,365,1,1,https://reqres.in/api/register,58,0,27
+1660509797173,58,RegisterUser-0,301,Moved Permanently,Users 1-9,,true,,608,239,1,1,http://reqres.in/api/register,58,0,27
+1660509797233,102,RegisterUser-1,200,OK,Users 1-9,text,true,,1521,126,1,1,https://reqres.in/api/register,101,0,75
+1660509809175,885,RegisterUser,200,OK,Users 1-10,text,true,,2131,365,1,1,https://reqres.in/api/register,776,0,67
+1660509809175,776,RegisterUser-0,301,Moved Permanently,Users 1-10,,true,,614,239,1,1,http://reqres.in/api/register,776,0,67
+1660509809952,108,RegisterUser-1,200,OK,Users 1-10,text,true,,1517,126,1,1,https://reqres.in/api/register,108,0,80
